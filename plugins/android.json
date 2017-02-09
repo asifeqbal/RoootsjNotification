@@ -12,6 +12,9 @@
         },
         "cordova-plugin-firebase": {
             "PACKAGE_NAME": "com.robhaenenroootsj.Roootsj"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.robhaenenroootsj.Roootsj"
         }
     },
     "dependent_plugins": {}
